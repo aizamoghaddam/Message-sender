@@ -1,19 +1,19 @@
 PyAutoGui فرستادن مسیج با    
-توضیحات#
+توضیحات #
 فرستادن مسیج ب اندازه دلخواه در پیامرسان تلگرام
 
-#create virtualenv
+# create virtualenv
 ```
 paython -m venv env 
 ```
 
 
-#install packages  
+# install packages  
 ```
 pip install -r requirements.txt
 ```
 
-#run project
+# run project
 ```
 main.py
 ```  
